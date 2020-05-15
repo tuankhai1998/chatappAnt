@@ -1,0 +1,24 @@
+[
+	{
+		"id": 1233,
+		"name": "Lâm Tuấn Khài",
+		"userName": "KhaiDk1998",
+		"password": "anhkhaideptrai",
+		"avartar": "KDK"
+	},
+    {
+        "id" : 1234,
+        "name" : "Trần Tuấn Đạt",
+        "userName" : "Đạt09",
+        "password": "123456",
+        "avartar": "Đ"
+    },
+    {
+        "id" : 1235,
+        "name" : "Đào Bá Đạt",
+        "userName" : "Đạt Tao Nhĩ ",
+        "password": "123456",
+        "avartar": "ĐTN"
+    }
+
+]

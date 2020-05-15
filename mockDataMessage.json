@@ -1,0 +1,80 @@
+[
+	{
+		"userID": 1233,
+		"fiend": [
+			{
+				"id": 1234,
+				"userName": "Đạt09",
+				"avartar": "Đ",
+				"dataMessage": [
+					{
+						"to": 1233,
+						"conten": "Xin chào đây là tin nhắn đầu tiên",
+						"sticker": ""
+					},
+					{
+						"to": 1234,
+						"conten": "Xin chào đây là tin nhắn đầu tiên",
+						"sticker": ""
+					}
+				]
+			},
+			{
+				"id": 1235,
+				"userName": "Đạt Tao Nhĩ",
+				"avartar": "ĐTN",
+				"dataMessage": [
+					{
+						"to": 1233,
+						"conten": "Xin chào đây là tin nhắn đầu tiên",
+						"sticker": ""
+					},
+					{
+						"to": 1234,
+						"conten": "Xin chào đây là tin nhắn đầu tiên",
+						"sticker": ""
+					}
+				]
+			}
+		]
+    },
+    {
+		"userID": 1233,
+		"fiend": [
+			{
+				"id": 1234,
+				"userName": "Đạt09",
+				"avartar": "Đ",
+				"dataMessage": [
+					{
+						"to": 1233,
+						"conten": "Xin chào đây là tin nhắn đầu tiên",
+						"sticker": ""
+					},
+					{
+						"to": 1234,
+						"conten": "Xin chào đây là tin nhắn đầu tiên",
+						"sticker": ""
+					}
+				]
+			},
+			{
+				"id": 1235,
+				"userName": "Đạt Tao Nhĩ",
+				"avartar": "ĐTN",
+				"dataMessage": [
+					{
+						"to": 1233,
+						"conten": "Xin chào đây là tin nhắn đầu tiên",
+						"sticker": ""
+					},
+					{
+						"to": 1234,
+						"conten": "Xin chào đây là tin nhắn đầu tiên",
+						"sticker": ""
+					}
+				]
+			}
+		]
+	}
+]
